@@ -2,7 +2,7 @@ import streamlit as st
 import datetime
 import mysql.connector as db
 mydb=db.connect(
-    host='localhost',
+    host='192.168.18.141',
     user='root',
     password='vijay@1995',
     database="mydb2")
