@@ -1,6 +1,4 @@
-Pillow
-newspaper3k
-urllib3
+mysql.connector
 streamlit
 pandas
 datetime
